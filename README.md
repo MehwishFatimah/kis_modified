@@ -2,9 +2,6 @@
 
 This repository contains the code for ACL2021 paper: [Keep It Simple: Unsupervised Simplification of Multi-Paragraph Text](https://people.eecs.berkeley.edu/~phillab/pdfs/ACL2021_Keep_It_Simple.pdf).
 
-<p align="center">
-  <img width="500" height="350" src="https://people.eecs.berkeley.edu/~phillab/images/Keep_It_Simple.png">
-</p>
 
 ## Installation for Training Procedure
 
